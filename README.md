@@ -49,7 +49,7 @@
 - [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://mrzakir.com)
 
 ---
 
@@ -57,11 +57,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/codeSTACKr/nft-landing-page/pull/11) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. ❌ Closed PR [#21](https://github.com/codeSTACKr/nft-landing-page/pull/21) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-3. ❌ Closed PR [#16](https://github.com/codeSTACKr/nft-landing-page/pull/16) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-4. ❌ Closed PR [#14](https://github.com/codeSTACKr/nft-landing-page/pull/14) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-5. ❌ Closed PR [#9](https://github.com/codeSTACKr/nft-landing-page/pull/9) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
+1. ➡️ Trimatric Design Studio (https://trimatric.studio)
 <!--END_SECTION:activity-->
 
 </details>
@@ -74,9 +70,9 @@
 </details>
 
 [website]: https://mrzakir.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/
 
 
