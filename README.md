@@ -4,7 +4,7 @@
 ## I'm a Web Developer and UI/UX Designer !!
 
 - 🔭 Check out my profile : [Zakir Hossain (Laravel Developer)][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning UI/UX and React Js 🤣
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2022 Goals: Learn more about React Js
 - ⚡ Fun fact: I love to play cricket and cycling
