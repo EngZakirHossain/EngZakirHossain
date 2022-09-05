@@ -39,15 +39,13 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Working Projects
 
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-<!-- BLOG-POST-LIST:END -->
+<!-- Working-POST-LIST:START -->
+- [Making ERP for an Architects Company](https://trimatric.com)
+- [Travel and Booking website UI Design](https://www.behance.net/zakirhossain4969)
+- [Affiliate Marketing For fishing Tools ](https://www.fishingtackleboxs.com)
+<!-- Working-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://mrzakir.com)
 
@@ -74,9 +72,8 @@
 </details>
 
 [website]: https://mrzakir.com
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/Zakir4969
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/zakirhossain4969
 
 
