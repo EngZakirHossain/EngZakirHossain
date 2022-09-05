@@ -52,7 +52,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent Complete Projects</summary>
   
 <!--START_SECTION:activity-->
 1. ➡️ Trimatric Architects & Engineers (https://trimatric.com)
