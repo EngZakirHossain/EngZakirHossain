@@ -47,7 +47,7 @@
 - [Affiliate Marketing For fishing Tools ](https://www.fishingtackleboxs.com)
 <!-- Working-POST-LIST:END -->
 
-➡️ [more blog posts...](https://mrzakir.com)
+➡️ [View my Profile...](https://mrzakir.com)
 
 ---
 
