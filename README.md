@@ -1,7 +1,7 @@
 # Hi there, I'm Zakir Hossain 👋 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Web Developer and UI/UX Designer !!
 
 - 🔭 Check out my profile : [Zakir Hossain (Laravel Developer)][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -16,9 +16,9 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://youtube.com)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Zakir4969)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/zakirhossain4969)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/)
 
@@ -57,7 +57,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➡️ Trimatric Design Studio (https://trimatric.studio)
+1. ➡️ Trimatric Architects & Engineers (https://trimatric.com)
+2. ➡️ Trimatric Design Studio (https://trimatric.studio)
+3. ➡️ Future Bangladesh (https://futurebangladesh.org)
+4. ➡️ Madcafe (https://madchefe.empyrealit.com)
+5. ➡️ Satez Ecommerce (https://www.satez.com.bd)
 <!--END_SECTION:activity-->
 
 </details>
