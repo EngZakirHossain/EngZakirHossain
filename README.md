@@ -12,6 +12,16 @@
 - ⚡ Fun fact: I love to play cricket and cycling
 - 📫 How to reach me **eng.zakirhossain4969@gmail.com**
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://mrzakir.com"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
+<a href = "https://www.linkedin.com/in/zakirhossain4969/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Zakir4969"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.behance.net/zakirhossain4969"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a>
+<a href = "https://www.fiverr.com/zakirhossain281"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
+
+</p>
 
 ## 🚀 Languages and Tools:
 
@@ -48,16 +58,6 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://mrzakir.com"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
-<a href = "https://www.linkedin.com/in/zakirhossain4969/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Zakir4969"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.behance.net/zakirhossain4969"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a>
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
