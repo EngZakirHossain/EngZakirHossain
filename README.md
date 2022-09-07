@@ -78,9 +78,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Complete Projects</summary>
-  
+### 📕 Recent Complete Projects
 <!--START_SECTION:activity-->
 1. ➡️ Trimatric Architects & Engineers (https://trimatric.com)
 2. ➡️ Trimatric Design Studio (https://trimatric.studio)
@@ -89,6 +87,5 @@
 5. ➡️ Satez Ecommerce (https://www.satez.com.bd)
 <!--END_SECTION:activity-->
 
-</details>
 
 
