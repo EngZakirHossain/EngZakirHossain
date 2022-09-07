@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 All of my projects are available at : [Zakir Hossain (Laravel Developer)][website]!
+- 🔭 All of my projects are available at : <a href="https://reactjs.org/" target="_blank"> Zakir Hossain (Laravel Developer & UI/UX Designer)</a>
 - 🌱 I’m currently learning UI/UX and React Js 🤣
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2022 Goals: Learn more about React Js
@@ -34,25 +34,36 @@
     </a>
 </p>
 
-<summary>:zap: GitHub Stats</summary>
+## 📊 My Github Stats
 
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=EngZakirHossain&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngZakirHossain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=09131B" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<br/>
+<br/>
 
-### Connect with me:
+<a href="https://github.com/EngZakirHossain/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=EngZakirHossain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![website](./img/globe-dark.svg)][website]
-&nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://youtube.com)
-&nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/Zakir4969)
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/zakirhossain4969)
-&nbsp;&nbsp;
-[![website](./img/behance.png)](https://www.behance.net/zakirhossain4969)
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://mrzakir.com"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
+<a href = "https://www.linkedin.com/in/zakirhossain4969/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Zakir4969"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.behance.net/zakirhossain4969"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=EngZakirHossain">
+</a>
+<a href="https://github.com/EngZakirHossain?tab=followers"><img src="https://img.shields.io/github/followers/EngZakirHossain?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 ### 📕 Latest Working Projects
@@ -79,12 +90,5 @@
 <!--END_SECTION:activity-->
 
 </details>
- 
-
-
-[website]: https://mrzakir.com
-[twitter]: https://twitter.com/Zakir4969
-[youtube]: https://youtube.com/
-[linkedin]: https://linkedin.com/in/zakirhossain4969
 
 
