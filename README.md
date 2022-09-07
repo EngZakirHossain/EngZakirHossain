@@ -1,13 +1,45 @@
-# Hi there, I'm Zakir Hossain 👋 
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zakir Hossain 👋 
 
 
 ## I'm a Web Developer and UI/UX Designer !!
 
-- 🔭 Check out my profile : [Zakir Hossain (Laravel Developer)][website]!
+## 🙋‍♂️ About Me
+
+- 🔭 All of my projects are available at : [Zakir Hossain (Laravel Developer)][website]!
 - 🌱 I’m currently learning UI/UX and React Js 🤣
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2022 Goals: Learn more about React Js
 - ⚡ Fun fact: I love to play cricket and cycling
+- 📫 How to reach me **eng.zakirhossain4969@gmail.com**
+
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>    
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>    
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>       
+</p>
+<br />
+
+<p align="center">
+    <a href="https://github.com/EngZakirHossain/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=EngZakirHossain&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<summary>:zap: GitHub Stats</summary>
+
+  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=EngZakirHossain&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngZakirHossain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=09131B" />
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 ### Connect with me:
@@ -22,22 +54,6 @@
 &nbsp;&nbsp;
 [![website](./img/behance.png)](https://www.behance.net/zakirhossain4969)
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.cdnlogo.com/logos/l/57/laravel.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<br />
-<br />
-
----
 
 ### 📕 Latest Working Projects
 
@@ -63,12 +79,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-
- <summary>:zap: GitHub Stats</summary>
-
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=EngZakirHossain&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+ 
 
 
 [website]: https://mrzakir.com
