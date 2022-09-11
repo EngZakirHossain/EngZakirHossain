@@ -47,6 +47,7 @@
 ## 📊 My Github Stats
 
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=EngZakirHossain&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngZakirHossain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=09131B" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
