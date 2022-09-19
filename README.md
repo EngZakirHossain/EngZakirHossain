@@ -15,11 +15,11 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://mrzakir.com"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
-<a href = "https://www.linkedin.com/in/zakirhossain4969/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Zakir4969"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.behance.net/zakirhossain4969"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a>
-<a href = "https://www.fiverr.com/zakirhossain281"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
+<a href = "https://mrzakir.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
+<a href = "https://www.linkedin.com/in/zakirhossain4969/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Zakir4969" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.behance.net/zakirhossain4969" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a>
+<a href = "https://www.fiverr.com/zakirhossain281" target="_blank"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
 
 </p>
 
