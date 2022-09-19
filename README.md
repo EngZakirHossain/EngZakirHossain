@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 All of my projects are available at : <a href="https:www.mrzakir.com" target="_blank"> Zakir Hossain (Laravel Developer & UI/UX Designer)</a>
+- 🔭 All of my projects are available at : <a href="https://mrzakir.com" target="_blank"> Zakir Hossain (Laravel Developer & UI/UX Designer)</a>
 - 🌱 I’m currently learning UI/UX and React Js 🤣
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2022 Goals: Learn more about React Js
