@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 All of my projects are available at : <a href="https://mrzakir.com" target="_blank"> Zakir Hossain (Laravel Developer & UI/UX Designer)</a>
-- 🌱 I’m currently learning UI/UX and React Js 🤣
+- 🌱 I’m currently learning UI/UX and Js 🤣
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2022 Goals: Learn more about React Js
 - ⚡ Fun fact: I love to play cricket and cycling
@@ -37,6 +37,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>       
 </p>
 <br />
+<a href="https://github.com/EngZakirHossain/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=EngZakirHossain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p align="center">
     <a href="https://github.com/EngZakirHossain/github-readme-streak-stats">
@@ -50,12 +53,7 @@
   
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngZakirHossain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=09131B" />
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/EngZakirHossain/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=EngZakirHossain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
 
 <br/>
 <br/>
