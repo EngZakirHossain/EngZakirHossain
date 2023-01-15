@@ -5,7 +5,7 @@ I am a Web Developer. I am working with Laravel, PHP, Vue, REST API and MySQL. I
 
 ## 🙋‍♂️ About Me
 
-- 🔭 All of my projects are available at : <a href="https://mrzakir.com" target="_blank"> Zakir Hossain (Laravel Developer & UI/UX Designer)</a>
+- 🔭 All of my projects are available at : <a href="https://mrzakir.com" target="_blank"> Zakir Hossain (Software Developer)</a>
 - 🌱 I’m currently learning Advance Laravel and Vue Js 🤣
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2023 Goals: Learn more about Laravel & Vue Js
