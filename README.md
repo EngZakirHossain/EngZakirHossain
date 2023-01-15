@@ -1,8 +1,6 @@
 <h3 align="center">Hey there, I'm Zakir Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 
-### 📖 About me
-
 I am a Web Developer. I am working with Laravel, PHP, Vue, REST API and MySQL. I also have experience in developing static/dynamic websites using HTML5, CSS3, Bootstrap, JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency.  I am passionate about effectiveness and speed of development also fun of clean code - so that clients get the first version of the product as soon as possible.
 
 ## 🙋‍♂️ About Me
