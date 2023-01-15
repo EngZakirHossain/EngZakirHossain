@@ -1,14 +1,16 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zakir Hossain 👋 
+<h3 align="center">Hey there, I'm Zakir Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 
-## I'm a Web Developer and UI/UX Designer !!
+### 📖 About me
+
+I am a Web Developer. I am working with Laravel, PHP, Vue, REST API and MySQL. I also have experience in developing static/dynamic websites using HTML5, CSS3, Bootstrap, JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency.  I am passionate about effectiveness and speed of development also fun of clean code - so that clients get the first version of the product as soon as possible.
 
 ## 🙋‍♂️ About Me
 
 - 🔭 All of my projects are available at : <a href="https://mrzakir.com" target="_blank"> Zakir Hossain (Laravel Developer & UI/UX Designer)</a>
-- 🌱 I’m currently learning UI/UX and Js 🤣
+- 🌱 I’m currently learning Advance Laravel and Vue Js 🤣
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2022 Goals: Learn more about React Js
+- 🥅 2023 Goals: Learn more about Laravel & Vue Js
 - ⚡ Fun fact: I love to play cricket and cycling
 - 📫 How to reach me **eng.zakirhossain4969@gmail.com**
 
@@ -23,22 +25,86 @@
 
 </p>
 
-## 🚀 Languages and Tools:
+### 👨🏻‍💻 Languages and Tools:
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>   
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+      </a>
+      <br>CSS3
+    </td>
+     <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+      <a href="#js">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>          
+  </tr>
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>    
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>    
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>       
-</p>
-<br />
-<a href="https://github.com/EngZakirHossain/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=EngZakirHossain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+  <tr>
+     <td align="center" width="96">
+      <a href="#nuxtjs" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+      <td align="center" width="96">
+      <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Vue JS
+    </td>  
+  </tr>
+   <tr>      
+      <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+      <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Vs Code" />
+      </a>
+      <br>VS Code
+    </td>
+      <td align="center" width="96">
+      <a href="#postman" >
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>     
+  </tr>
+</table>
+ <br />
+  
+  <p align="center"><img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngZakirHossain&theme=vue" /></p>
+  
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p align="center">
