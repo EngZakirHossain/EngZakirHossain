@@ -6,10 +6,10 @@ I am a Web Developer. I am working with Laravel, PHP, Vue, REST API and MySQL. I
 ## 🙋‍♂️ About Me
 
 - 🔭 All of my projects are available at : <a href="https://mrzakir.com" target="_blank"> Zakir Hossain (Software Developer)</a>
-- 🌱 I’m currently learning Advance Laravel and Vue Js 🤣
+- 🌱 I’m currently learning Advanced Laravel and Next Js 🤣
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2023 Goals: Learn more about Laravel & Vue Js
-- ⚡ Fun fact: I love to play cricket and cycling
+- 🥅 2023 Goals: Learn more about Laravel & Next Js
+- ⚡ Fun fact: I love to play cricket and cyclling 
 - 📫 How to reach me **eng.zakirhossain4969@gmail.com**
 
 ## Connect with me:
